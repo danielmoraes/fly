@@ -1,0 +1,22 @@
+{
+  "name": "fly",
+  "version": "0.0.1",
+  "description": "Find cheap flights with ease",
+  "main": "index.js",
+  "repository": "https://github.com/danielmoraes/fly",
+  "author": "Daniel Moraes",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node -r esm src"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "esm": "^3.0.84",
+    "express": "^4.16.3",
+    "lodash": "^4.17.11",
+    "moment": "^2.22.2",
+    "opn": "^5.4.0"
+  }
+}
