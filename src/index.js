@@ -4,6 +4,7 @@ import moment from 'moment'
 const yup = require('yup')
 
 import { Azul } from './api'
+import { AzulParser } from './parsers'
 
 const app = express()
 const port = 3000
@@ -18,8 +19,10 @@ app.get('/azul', async (req, res) => {
   try {
     const data  = await schema.cast(req.query)
     const response = await Azul.search(data.origin, data.destination, data.date)
-    res.send(response)
+    const bestPrice = AzulParser.findBestPrice(response)
+    res.send({ bestPrice })
   } catch (e) {
+    console.log(e)
     res.sendStatus(400)
   }
 })
