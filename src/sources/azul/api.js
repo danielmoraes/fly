@@ -1,18 +1,17 @@
 import axios from 'axios'
 import querystring from 'querystring'
 
-import { getData } from './data'
+import { getData } from './api-data'
 
-const BASE_URL = 'https://compre2.voegol.com.br'
+const BASE_URL = 'https://viajemais.voeazul.com.br'
 
-const Gol = {
+const api = {
   search: async (originCode, destinationCode, date, options = {}) => {
     let response
 
     const headers = {
       'Content-Type': 'application/x-www-form-urlencoded',
-      'Connection': 'keep-alive',
-      'Origin': 'https://compre2.voegol.com.br'
+      'Origin': 'https://www.voeazul.com.br'
     }
 
     const requestOptions = { baseURL: BASE_URL }
@@ -20,7 +19,7 @@ const Gol = {
     const data = getData(originCode, destinationCode, date, options)
     const dataString = querystring.stringify(data)
 
-    response = await axios.post('/CSearch.aspx', dataString, {
+    response = await axios.post('/Search.aspx', dataString, {
       ...requestOptions,
       headers,
       maxRedirects: 0,
@@ -29,7 +28,7 @@ const Gol = {
 
     const cookieString = response.headers['set-cookie'].join(';')
 
-    response = await axios.post('/Select2.aspx', data, {
+    response = await axios.post('/Availability.aspx', data, {
       ...requestOptions,
       headers: { ...headers, cookie: cookieString }
     })
@@ -38,4 +37,4 @@ const Gol = {
   }
 }
 
-export default Gol
+export default api

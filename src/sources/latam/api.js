@@ -1,13 +1,13 @@
 import axios from 'axios'
 import querystring from 'querystring'
 
-import { getData } from './data'
+import { getData } from './api-data'
 
 const BASE_URL =
   'https://bff.latam.com/ws/proxy/booking-webapp-bff/v1/' +
   'public/revenue/recommendations/oneway'
 
-const Latam = {
+const api = {
   search: async (originCode, destinationCode, date, options = {}) => {
     const data = getData(originCode, destinationCode, date, options)
     const response = await axios.get(BASE_URL, { params: data })
@@ -15,4 +15,4 @@ const Latam = {
   }
 }
 
-export default Latam
+export default api

@@ -1,17 +1,18 @@
 import axios from 'axios'
 import querystring from 'querystring'
 
-import { getData } from './data'
+import { getData } from './api-data'
 
-const BASE_URL = 'https://viajemais.voeazul.com.br'
+const BASE_URL = 'https://compre2.voegol.com.br'
 
-const Azul = {
+const api = {
   search: async (originCode, destinationCode, date, options = {}) => {
     let response
 
     const headers = {
       'Content-Type': 'application/x-www-form-urlencoded',
-      'Origin': 'https://www.voeazul.com.br'
+      'Connection': 'keep-alive',
+      'Origin': 'https://compre2.voegol.com.br'
     }
 
     const requestOptions = { baseURL: BASE_URL }
@@ -19,7 +20,7 @@ const Azul = {
     const data = getData(originCode, destinationCode, date, options)
     const dataString = querystring.stringify(data)
 
-    response = await axios.post('/Search.aspx', dataString, {
+    response = await axios.post('/CSearch.aspx', dataString, {
       ...requestOptions,
       headers,
       maxRedirects: 0,
@@ -28,7 +29,7 @@ const Azul = {
 
     const cookieString = response.headers['set-cookie'].join(';')
 
-    response = await axios.post('/Availability.aspx', data, {
+    response = await axios.post('/Select2.aspx', data, {
       ...requestOptions,
       headers: { ...headers, cookie: cookieString }
     })
@@ -37,4 +38,4 @@ const Azul = {
   }
 }
 
-export default Azul
+export default api

@@ -1,8 +1,8 @@
 import cheerio from 'cheerio'
 import { map, min } from 'lodash'
 
-const GolParser = {
-  findBestPrice: data => {
+const parser = {
+  getLowestFare: data => {
     const $ = cheerio.load(data)
 
     let bestPrice =
@@ -16,4 +16,4 @@ const GolParser = {
   }
 }
 
-export default GolParser
+export default parser

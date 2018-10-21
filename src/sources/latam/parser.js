@@ -1,6 +1,6 @@
-const LatamParser = {
-  findBestPrice: ({ data }) => {
-    const flights = data.flights
+const parser = {
+  getLowestFare: data => {
+    const flights = data.data.flights
     const bestPrice =
       flights.reduce(
         (fa, fv) => Math.min(
@@ -13,4 +13,4 @@ const LatamParser = {
   }
 }
 
-export default LatamParser
+export default parser

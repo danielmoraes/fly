@@ -1,8 +1,8 @@
 import cheerio from 'cheerio'
 import { map, min } from 'lodash'
 
-const AzulParser = {
-  findBestPrice: data => {
+const parser = {
+  getLowestFare: data => {
     const $ = cheerio.load(data)
     const prices = map($('span.fare-price'), element => {
       let price = element.children[0].data
@@ -14,4 +14,4 @@ const AzulParser = {
   }
 }
 
-export default AzulParser
+export default parser
