@@ -1,5 +1,4 @@
 import axios from 'axios'
-import querystring from 'querystring'
 
 import { getData } from './api-data'
 
