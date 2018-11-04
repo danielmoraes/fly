@@ -1,5 +1,8 @@
-const parser = {
-  getLowestFare: data => {
+import { SourceParser } from '@lib/source'
+
+class Parser extends SourceParser {
+  // @override
+  static getLowestFare (data) {
     const flights = data.data.flights
     const bestPrice =
       flights.reduce(
@@ -13,4 +16,4 @@ const parser = {
   }
 }
 
-export default parser
+export default Parser

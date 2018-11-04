@@ -1,21 +1,15 @@
 import moment from 'moment'
+import { findLowestFares } from '@sources'
 
-import { findLowestFares } from '../sources'
-
-const yup = require('yup')
+import * as schema from './schema'
 
 export const search = async (req, res) => {
-  const schema = yup.object().shape({
-    origin: yup.string().required(),
-    destination: yup.string().required(),
-    date: yup.date().default(() => moment().add(15, 'd'))
-  })
-
   try {
-    const { origin, destination, date }  = await schema.cast(req.query)
+    const { origin, destination, date }  = await schema.search.cast(req.query)
     const lowestFares = await findLowestFares(origin, destination, date)
     res.send(lowestFares)
-  } catch (e) {
-    res.sendStatus(400)
+  } catch (err) {
+    console.error(err.stack)
+    return res.sendStatus(400)
   }
 }

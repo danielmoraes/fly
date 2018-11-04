@@ -1,0 +1,1423 @@
+{
+  "aag": {
+    "city": "Arapoti",
+    "iata": "AAG",
+    "icao": "SSYA",
+    "name": "Avelino Vieira Airport",
+    "region": "Paraná"
+  },
+  "aai": {
+    "city": "Arraias",
+    "iata": "AAI",
+    "icao": "SWRA",
+    "name": "Arraias Airport",
+    "region": "Tocantins"
+  },
+  "aax": {
+    "city": "Araxá",
+    "iata": "AAX",
+    "icao": "SBAX",
+    "name": "Araxá Airport",
+    "region": "Minas Gerais"
+  },
+  "afl": {
+    "city": "Alta Floresta",
+    "iata": "AFL",
+    "icao": "SBAT",
+    "name": "Piloto Oswaldo Marques Dias Airport",
+    "region": "Mato Grosso"
+  },
+  "aif": {
+    "city": "Assis",
+    "iata": "AIF",
+    "icao": "SNAX",
+    "name": "Marcelo Pires Halzhausen Airport",
+    "region": "São Paulo"
+  },
+  "aju": {
+    "city": "Aracaju",
+    "iata": "AJU",
+    "icao": "SBAR",
+    "name": "Santa Maria Airport",
+    "region": "Sergipe"
+  },
+  "alq": {
+    "city": "Alegrete",
+    "iata": "ALQ",
+    "icao": "SSLT",
+    "name": "Gaudêncio Machado Ramos Airport",
+    "region": "Rio Grande do Sul"
+  },
+  "apu": {
+    "city": "Apucarana",
+    "iata": "APU",
+    "icao": "SSAP",
+    "name": "Capt. João Busse Airport",
+    "region": "Paraná"
+  },
+  "apx": {
+    "city": "Arapongas",
+    "iata": "APX",
+    "icao": "SSOG",
+    "name": "Alberto Bertelli Airport",
+    "region": "Paraná"
+  },
+  "aqa": {
+    "city": "Araraquara",
+    "iata": "AQA",
+    "icao": "SBAQ",
+    "name": "Bartolomeu de Gusmão Airport",
+    "region": "São Paulo"
+  },
+  "aru": {
+    "city": "Araçatuba",
+    "iata": "ARU",
+    "icao": "SBAU",
+    "name": "Dario Guarita Airport",
+    "region": "São Paulo"
+  },
+  "atm": {
+    "city": "Altamira",
+    "iata": "ATM",
+    "icao": "SBHT",
+    "name": "Altamira Airport",
+    "region": "Pará"
+  },
+  "aux": {
+    "city": "Araguaína",
+    "iata": "AUX",
+    "icao": "SWGN",
+    "name": "Araguaína Airport",
+    "region": "Tocantins"
+  },
+  "bat": {
+    "city": "Barretos",
+    "iata": "BAT",
+    "icao": "SNBA",
+    "name": "Chafei Amsei Airport",
+    "region": "São Paulo"
+  },
+  "bau": {
+    "city": "Bauru",
+    "iata": "BAU",
+    "icao": "SBBU",
+    "name": "Comte. João Ribeiro de Barros Airport",
+    "region": "São Paulo"
+  },
+  "baz": {
+    "city": "Barcelos",
+    "iata": "BAZ",
+    "icao": "SWBC",
+    "name": "Barcelos Airport",
+    "region": "Amazonas"
+  },
+  "bel": {
+    "city": "Belém",
+    "iata": "BEL",
+    "icao": "SBBE",
+    "name": "Val de Cans-Júlio Cezar Ribeiro International Airport",
+    "region": "Pará"
+  },
+  "bfh": {
+    "city": "Curitiba",
+    "iata": "BFH",
+    "icao": "SBBI",
+    "name": "Bacacheri Airport",
+    "region": "Paraná"
+  },
+  "bgx": {
+    "city": "Bagé",
+    "iata": "BGX",
+    "icao": "SBBG",
+    "name": "Comte. Gustavo Kraemer Airport",
+    "region": "Rio Grande do Sul"
+  },
+  "bjp": {
+    "city": "Bragança Paulista",
+    "iata": "BJP",
+    "icao": "SDBP",
+    "name": "Arthur Siqueira Airport",
+    "region": "São Paulo"
+  },
+  "bpg": {
+    "city": "Barra do Garças",
+    "iata": "BPG",
+    "icao": "SBBW",
+    "name": "Barra do Garças Airport",
+    "region": "Mato Grosso"
+  },
+  "bps": {
+    "city": "Porto Seguro",
+    "iata": "BPS",
+    "icao": "SBPS",
+    "name": "Porto Seguro Airport",
+    "region": "Bahia"
+  },
+  "bqq": {
+    "city": "Barra",
+    "iata": "BQQ",
+    "icao": "SNBX",
+    "name": "Barra Airport",
+    "region": "Bahia"
+  },
+  "bra": {
+    "city": "Barreiras",
+    "iata": "BRA",
+    "icao": "SNBR",
+    "name": "Barreiras Airport",
+    "region": "Bahia"
+  },
+  "brb": {
+    "city": "Barreirinhas",
+    "iata": "BRB",
+    "icao": "SSRS",
+    "name": "Barreirinhas Airport",
+    "region": "Maranhão"
+  },
+  "bsb": {
+    "city": "Brasília",
+    "iata": "BSB",
+    "icao": "SBBR",
+    "name": "Pres. Juscelino Kubitschek International Airport",
+    "region": "Federal District"
+  },
+  "bvb": {
+    "city": "Boa Vista",
+    "iata": "BVB",
+    "icao": "SBBV",
+    "name": "Atlas Brasil Cantanhede International Airport",
+    "region": "Roraima"
+  },
+  "bvh": {
+    "city": "Vilhena",
+    "iata": "BVH",
+    "icao": "SBVH",
+    "name": "Brig. Camarão Airport",
+    "region": "Rondônia"
+  },
+  "byo": {
+    "city": "Bonito",
+    "iata": "BYO",
+    "icao": "SBDB",
+    "name": "Bonito Airport",
+    "region": "Mato Grosso do Sul"
+  },
+  "bzc": {
+    "city": "Armação dos Búzios",
+    "iata": "BZC",
+    "icao": "SBBZ",
+    "name": "Umberto Modiano Airport",
+    "region": "Rio de Janeiro"
+  },
+  "cac": {
+    "city": "Cascavel",
+    "iata": "CAC",
+    "icao": "SBCA",
+    "name": "Adalberto Mendes da Silva Airport",
+    "region": "Paraná"
+  },
+  "caf": {
+    "city": "Carauari",
+    "iata": "CAF",
+    "icao": "SWCA",
+    "name": "Carauari Airport",
+    "region": "Amazonas"
+  },
+  "cau": {
+    "city": "Caruaru",
+    "iata": "CAU",
+    "icao": "SNRU",
+    "name": "Oscar Laranjeiras Airport",
+    "region": "Pernambuco"
+  },
+  "caw": {
+    "city": "Campos dos Goytacazes",
+    "iata": "CAW",
+    "icao": "SBCP",
+    "name": "Bartolomeu Lysandro Airport",
+    "region": "Rio de Janeiro"
+  },
+  "cci": {
+    "city": "Concórdia",
+    "iata": "CCI",
+    "icao": "SSCK",
+    "name": "Olavo Cecco Rigon Airport",
+    "region": "Santa Catarina"
+  },
+  "ccm": {
+    "city": "Criciúma / Forquilhinha",
+    "iata": "CCM",
+    "icao": "SBCM",
+    "name": "Diomício Freitas Airport",
+    "region": "Santa Catarina"
+  },
+  "cdi": {
+    "city": "Cachoeiro de Itapemirim",
+    "iata": "CDI",
+    "icao": "SNKI",
+    "name": "Raimundo de Andrade Airport",
+    "region": "Espírito Santo"
+  },
+  "cdj": {
+    "city": "Conceição do Araguaia",
+    "iata": "CDJ",
+    "icao": "SBAA",
+    "name": "Conceição do Araguaia Airport",
+    "region": "Pará"
+  },
+  "cfb": {
+    "city": "Cabo Frio",
+    "iata": "CFB",
+    "icao": "SBCB",
+    "name": "Cabo Frio International Airport",
+    "region": "Rio de Janeiro"
+  },
+  "cfc": {
+    "city": "Caçador",
+    "iata": "CFC",
+    "icao": "SBCD",
+    "name": "Carlos Alberto da Costa Neves Airport",
+    "region": "Santa Catarina"
+  },
+  "cfo": {
+    "city": "Confresa",
+    "iata": "CFO",
+    "icao": "SWKF",
+    "name": "Confresa Airport",
+    "region": "Mato Grosso"
+  },
+  "cgb": {
+    "city": "Cuiabá / Várzea Grande",
+    "iata": "CGB",
+    "icao": "SBCY",
+    "name": "Mal. Rondon International Airport",
+    "region": "Mato Grosso"
+  },
+  "cgh": {
+    "city": "São Paulo",
+    "iata": "CGH",
+    "icao": "SBSP",
+    "name": "Congonhas Airport",
+    "region": "São Paulo"
+  },
+  "cgr": {
+    "city": "Campo Grande",
+    "iata": "CGR",
+    "icao": "SBCG",
+    "name": "Campo Grande International Airport",
+    "region": "Mato Grosso do Sul"
+  },
+  "ciz": {
+    "city": "Coari",
+    "iata": "CIZ",
+    "icao": "SWKO",
+    "name": "Coari Airport",
+    "region": "Amazonas"
+  },
+  "cko": {
+    "city": "Cornélio Procópio",
+    "iata": "CKO",
+    "icao": "SSCP",
+    "name": "Francisco Lacerda Junior Airport",
+    "region": "Paraná"
+  },
+  "cks": {
+    "city": "Carajás (Parauapebas)",
+    "iata": "CKS",
+    "icao": "SBCJ",
+    "name": "Carajás Airport",
+    "region": "Pará"
+  },
+  "cln": {
+    "city": "Carolina",
+    "iata": "CLN",
+    "icao": "SBCI",
+    "name": "Carolina Airport",
+    "region": "Maranhão"
+  },
+  "clv": {
+    "city": "Caldas Novas / Rio Quente",
+    "iata": "CLV",
+    "icao": "SBCN",
+    "name": "Nelson Ribeiro Guimarães Airport",
+    "region": "Goiás"
+  },
+  "cmg": {
+    "city": "Corumbá",
+    "iata": "CMG",
+    "icao": "SBCR",
+    "name": "Corumbá International Airport",
+    "region": "Mato Grosso do Sul"
+  },
+  "cmp": {
+    "city": "Santana do Araguaia",
+    "iata": "CMP",
+    "icao": "SNKE",
+    "name": "Santana do Araguaia Airport",
+    "region": "Pará"
+  },
+  "cnf": {
+    "city": "Belo Horizonte / Confins",
+    "iata": "CNF",
+    "icao": "SBCF",
+    "name": "Tancredo Neves International Airport",
+    "region": "Minas Gerais"
+  },
+  "cpv": {
+    "city": "Campina Grande",
+    "iata": "CPV",
+    "icao": "SBKG",
+    "name": "Pres. João Suassuna Airport",
+    "region": "Paraíba"
+  },
+  "crq": {
+    "city": "Caravelas",
+    "iata": "CRQ",
+    "icao": "SBCV",
+    "name": "Caravelas Airport",
+    "region": "Bahia"
+  },
+  "cwb": {
+    "city": "Curitiba / São José dos Pinhais",
+    "iata": "CWB",
+    "icao": "SBCT",
+    "name": "Afonso Pena International Airport",
+    "region": "Paraná"
+  },
+  "cxj": {
+    "city": "Caxias do Sul",
+    "iata": "CXJ",
+    "icao": "SBCX",
+    "name": "Hugo Cantergiani Regional Airport (Campo dos Bugres)",
+    "region": "Rio Grande do Sul"
+  },
+  "czs": {
+    "city": "Cruzeiro do Sul",
+    "iata": "CZS",
+    "icao": "SBCZ",
+    "name": "Cruzeiro do Sul International Airport",
+    "region": "Acre"
+  },
+  "diq": {
+    "city": "Divinópolis",
+    "iata": "DIQ",
+    "icao": "SNDV",
+    "name": "Brig. Cabral Airport",
+    "region": "Minas Gerais"
+  },
+  "dou": {
+    "city": "Dourados",
+    "iata": "DOU",
+    "icao": "SBDO",
+    "name": "Francisco de Matos Pereira Airport",
+    "region": "Mato Grosso do Sul"
+  },
+  "dti": {
+    "city": "Diamantina",
+    "iata": "DTI",
+    "icao": "SNDT",
+    "name": "Diamantina Airport",
+    "region": "Minas Gerais"
+  },
+  "erm": {
+    "city": "Erechim",
+    "iata": "ERM",
+    "icao": "SSER",
+    "name": "Erechim Airport",
+    "region": "Rio Grande do Sul"
+  },
+  "ern": {
+    "city": "Eirunepé",
+    "iata": "ERN",
+    "icao": "SWEI",
+    "name": "Amaury Feitosa Tomaz Airport",
+    "region": "Amazonas"
+  },
+  "fba": {
+    "city": "Fonte Boa",
+    "iata": "FBA",
+    "icao": "SWOB",
+    "name": "Fonte Boa Airport",
+    "region": "Amazonas"
+  },
+  "fbe": {
+    "city": "Francisco Beltrão",
+    "iata": "FBE",
+    "icao": "SSFB",
+    "name": "Paulo Abdala Airport",
+    "region": "Paraná"
+  },
+  "fec": {
+    "city": "Feira de Santana",
+    "iata": "FEC",
+    "icao": "SBFE",
+    "name": "João Durval Carneiro Airport",
+    "region": "Bahia"
+  },
+  "fej": {
+    "city": "Feijó",
+    "iata": "FEJ",
+    "icao": "SNOU",
+    "name": "Feijó Airport",
+    "region": "Acre"
+  },
+  "fen": {
+    "city": "Fernando de Noronha",
+    "iata": "FEN",
+    "icao": "SBFN",
+    "name": "Fernando de Noronha Airport",
+    "region": "Pernambuco"
+  },
+  "fln": {
+    "city": "Florianópolis",
+    "iata": "FLN",
+    "icao": "SBFL",
+    "name": "Hercílio Luz International Airport",
+    "region": "Santa Catarina"
+  },
+  "for": {
+    "city": "Fortaleza",
+    "iata": "FOR",
+    "icao": "SBFZ",
+    "name": "Pinto Martins - Fortaleza International Airport",
+    "region": "Ceará"
+  },
+  "frc": {
+    "city": "Franca",
+    "iata": "FRC",
+    "icao": "SIMK",
+    "name": "Ten. Lund Presotto Airport",
+    "region": "São Paulo"
+  },
+  "gel": {
+    "city": "Santo Ângelo",
+    "iata": "GEL",
+    "icao": "SBNM",
+    "name": "Sepé Tiaraju Airport",
+    "region": "Rio Grande do Sul"
+  },
+  "gig": {
+    "city": "Rio de Janeiro",
+    "iata": "GIG",
+    "icao": "SBGL",
+    "name": "Galeão-Antonio Carlos Jobim International Airport",
+    "region": "Rio de Janeiro"
+  },
+  "gnm": {
+    "city": "Guanambi",
+    "iata": "GNM",
+    "icao": "SNGI",
+    "name": "Guanambi Airport",
+    "region": "Bahia"
+  },
+  "gpb": {
+    "city": "Guarapuava",
+    "iata": "GPB",
+    "icao": "SBGU",
+    "name": "Tancredo Thomas de Faria Airport",
+    "region": "Paraná"
+  },
+  "grp": {
+    "city": "Gurupi",
+    "iata": "GRP",
+    "icao": "SWGI",
+    "name": "Gurupi Airport",
+    "region": "Tocantins"
+  },
+  "gru": {
+    "city": "São Paulo / Guarulhos",
+    "iata": "GRU",
+    "icao": "SBGR",
+    "name": "Gov. André Franco Montoro International Airport (Cumbica)",
+    "region": "São Paulo"
+  },
+  "gvr": {
+    "city": "Governador Valadares",
+    "iata": "GVR",
+    "icao": "SBGV",
+    "name": "Cel. Altino Machado de Oliveira Airport",
+    "region": "Minas Gerais"
+  },
+  "gyn": {
+    "city": "Goiânia",
+    "iata": "GYN",
+    "icao": "SBGO",
+    "name": "Santa Genoveva Airport",
+    "region": "Goiás"
+  },
+  "hpx": {
+    "city": "Água Boa",
+    "iata": "HPX",
+    "icao": "SWHP",
+    "name": "Água Boa Airport",
+    "region": "Mato Grosso"
+  },
+  "huw": {
+    "city": "Humaitá",
+    "iata": "HUW",
+    "icao": "SWHT",
+    "name": "Francisco Correa da Cruz Airport",
+    "region": "Amazonas"
+  },
+  "igu": {
+    "city": "Foz do Iguaçu",
+    "iata": "IGU",
+    "icao": "SBFI",
+    "name": "Cataratas International Airport",
+    "region": "Paraná"
+  },
+  "iju": {
+    "city": "Ijuí",
+    "iata": "IJU",
+    "icao": "SSIJ",
+    "name": "João Batista Bos Filho Airport",
+    "region": "Rio Grande do Sul"
+  },
+  "imp": {
+    "city": "Imperatriz",
+    "iata": "IMP",
+    "icao": "SBIZ",
+    "name": "Pref. Renato Moreira Airport",
+    "region": "Maranhão"
+  },
+  "ios": {
+    "city": "Ilhéus",
+    "iata": "IOS",
+    "icao": "SBIL",
+    "name": "Jorge Amado Airport",
+    "region": "Bahia"
+  },
+  "ipg": {
+    "city": "Santo Antônio do Içá",
+    "iata": "IPG",
+    "icao": "SWII",
+    "name": "Ipiranga Airport",
+    "region": "Amazonas"
+  },
+  "ipn": {
+    "city": "Ipatinga / Santana do Paraíso",
+    "iata": "IPN",
+    "icao": "SBIP",
+    "name": "Usiminas Airport",
+    "region": "Minas Gerais"
+  },
+  "irz": {
+    "city": "Santa Isabel do Rio Negro",
+    "iata": "IRZ",
+    "icao": "SWTP",
+    "name": "Tapuruquara Airport",
+    "region": "Amazonas"
+  },
+  "itb": {
+    "city": "Itaituba",
+    "iata": "ITB",
+    "icao": "SBIH",
+    "name": "Itaituba Airport",
+    "region": "Pará"
+  },
+  "itr": {
+    "city": "Itumbiara",
+    "iata": "ITR",
+    "icao": "SBIT",
+    "name": "Francisco Vilela do Amaral Airport",
+    "region": "Goiás"
+  },
+  "iza": {
+    "city": "Juiz de Fora / Goianá",
+    "iata": "IZA",
+    "icao": "SBZM",
+    "name": "Pres. Itamar Franco Airport (Zona da Mata)",
+    "region": "Minas Gerais"
+  },
+  "jcb": {
+    "city": "Joaçaba",
+    "iata": "JCB",
+    "icao": "SSJA",
+    "name": "Santa Terezinha Airport",
+    "region": "Santa Catarina"
+  },
+  "jdf": {
+    "city": "Juiz de Fora",
+    "iata": "JDF",
+    "icao": "SBJF",
+    "name": "Francisco Álvares de Assis Airport",
+    "region": "Minas Gerais"
+  },
+  "jdo": {
+    "city": "Juazeiro do Norte",
+    "iata": "JDO",
+    "icao": "SBJU",
+    "name": "Orlando Bezerra de Menezes Airport",
+    "region": "Ceará"
+  },
+  "jdr": {
+    "city": "São João del-Rei",
+    "iata": "JDR",
+    "icao": "SNJR",
+    "name": "Pref. Octávio de Almeida Neves Airport",
+    "region": "Minas Gerais"
+  },
+  "jia": {
+    "city": "Juína",
+    "iata": "JIA",
+    "icao": "SWJN",
+    "name": "Juína Airport",
+    "region": "Mato Grosso"
+  },
+  "jjd": {
+    "city": "Jijoca de Jericoacoara / Cruz",
+    "iata": "JJD",
+    "icao": "SBJE",
+    "name": "Comte. Ariston Pessoa Regional Airport",
+    "region": "Ceará"
+  },
+  "jjg": {
+    "city": "Jaguaruna",
+    "iata": "JJG",
+    "icao": "SBJA",
+    "name": "Humberto Ghizzo Bortoluzzi Regional Airport",
+    "region": "Santa Catarina"
+  },
+  "jna": {
+    "city": "Januária",
+    "iata": "JNA",
+    "icao": "SNJN",
+    "name": "Januária Airport",
+    "region": "Minas Gerais"
+  },
+  "joi": {
+    "city": "Joinville",
+    "iata": "JOI",
+    "icao": "SBJV",
+    "name": "Lauro Carneiro de Loyola Airport",
+    "region": "Santa Catarina"
+  },
+  "jpa": {
+    "city": "João Pessoa / Bayeux",
+    "iata": "JPA",
+    "icao": "SBJP",
+    "name": "Pres. Castro Pinto International Airport",
+    "region": "Paraíba"
+  },
+  "jpr": {
+    "city": "Ji-Paraná",
+    "iata": "JPR",
+    "icao": "SBJI",
+    "name": "José Coleto Airport",
+    "region": "Rondônia"
+  },
+  "jrn": {
+    "city": "Juruena",
+    "iata": "JRN",
+    "icao": "SWJU",
+    "name": "Juruena Airport",
+    "region": "Mato Grosso"
+  },
+  "jtc": {
+    "city": "Bauru / Arealva",
+    "iata": "JTC",
+    "icao": "SBAE",
+    "name": "Moussa Nakhl Tobias Airport",
+    "region": "São Paulo"
+  },
+  "jua": {
+    "city": "Juara",
+    "iata": "JUA",
+    "icao": "SIZX",
+    "name": "Inácio Luís do Nascimento Airport",
+    "region": "Mato Grosso"
+  },
+  "laj": {
+    "city": "Lages",
+    "iata": "LAJ",
+    "icao": "SBLJ",
+    "name": "Antônio Correia Pinto de Macedo Airport",
+    "region": "Santa Catarina"
+  },
+  "laz": {
+    "city": "Bom Jesus da Lapa",
+    "iata": "LAZ",
+    "icao": "SBLP",
+    "name": "Bom Jesus da Lapa Airport",
+    "region": "Bahia"
+  },
+  "lbr": {
+    "city": "Lábrea",
+    "iata": "LBR",
+    "icao": "SWLB",
+    "name": "Lábrea Airport",
+    "region": "Amazonas"
+  },
+  "ldb": {
+    "city": "Londrina",
+    "iata": "LDB",
+    "icao": "SBLO",
+    "name": "Gov. José Richa Airport",
+    "region": "Paraná"
+  },
+  "lec": {
+    "city": "Lençóis",
+    "iata": "LEC",
+    "icao": "SBLE",
+    "name": "Cel. Horácio de Mattos Airport",
+    "region": "Bahia"
+  },
+  "lip": {
+    "city": "Lins",
+    "iata": "LIP",
+    "icao": "SBLN",
+    "name": "Gov. Lucas Nogueira Garcez Airport",
+    "region": "São Paulo"
+  },
+  "lvr": {
+    "city": "Lucas do Rio Verde",
+    "iata": "LVR",
+    "icao": "SILC",
+    "name": "Bom Futuro Airport",
+    "region": "Mato Grosso"
+  },
+  "mab": {
+    "city": "Marabá",
+    "iata": "MAB",
+    "icao": "SBMA",
+    "name": "João Correa da Rocha Airport",
+    "region": "Pará"
+  },
+  "mae": {
+    "city": "São Paulo",
+    "iata": "MAE",
+    "icao": "SBMT",
+    "name": "Campo de Marte Airport",
+    "region": "São Paulo"
+  },
+  "mao": {
+    "city": "Manaus",
+    "iata": "MAO",
+    "icao": "SBEG",
+    "name": "Brig. Eduardo Gomes International Airport",
+    "region": "Amazonas"
+  },
+  "mbk": {
+    "city": "Matupá",
+    "iata": "MBK",
+    "icao": "SWXM",
+    "name": "Orlando Villas-Bôas Regional Airport",
+    "region": "Mato Grosso"
+  },
+  "mbz": {
+    "city": "Maués",
+    "iata": "MBZ",
+    "icao": "SWMW",
+    "name": "Maués Airport",
+    "region": "Amazonas"
+  },
+  "mcp": {
+    "city": "Macapá",
+    "iata": "MCP",
+    "icao": "SBMQ",
+    "name": "Alberto Alcolumbre International Airport",
+    "region": "Amapá"
+  },
+  "mcz": {
+    "city": "Maceió",
+    "iata": "MCZ",
+    "icao": "SBMO",
+    "name": "Zumbi dos Palmares International Airport (Palmares)",
+    "region": "Alagoas"
+  },
+  "mea": {
+    "city": "Macaé",
+    "iata": "MEA",
+    "icao": "SBME",
+    "name": "Benedito Lacerda Airport",
+    "region": "Rio de Janeiro"
+  },
+  "meu": {
+    "city": "Monte Dourado (Almeirim)",
+    "iata": "MEU",
+    "icao": "SBMD",
+    "name": "Serra do Areão Airport",
+    "region": "Pará"
+  },
+  "mgf": {
+    "city": "Maringá",
+    "iata": "MGF",
+    "icao": "SBMG",
+    "name": "Sílvio Name Júnior Regional Airport",
+    "region": "Paraná"
+  },
+  "mii": {
+    "city": "Marília",
+    "iata": "MII",
+    "icao": "SBML",
+    "name": "Frank Miloye Milenkowichi Airport",
+    "region": "São Paulo"
+  },
+  "mnx": {
+    "city": "Manicoré",
+    "iata": "MNX",
+    "icao": "SBMY",
+    "name": "Manicoré Airport",
+    "region": "Amazonas"
+  },
+  "moc": {
+    "city": "Montes Claros",
+    "iata": "MOC",
+    "icao": "SBMK",
+    "name": "Mário Ribeiro Airport",
+    "region": "Minas Gerais"
+  },
+  "mqh": {
+    "city": "Minaçu",
+    "iata": "MQH",
+    "icao": "SWIQ",
+    "name": "Minaçu Airport",
+    "region": "Goiás"
+  },
+  "mvf": {
+    "city": "Mossoró",
+    "iata": "MVF",
+    "icao": "SBMS",
+    "name": "Gov. Dix-Sept Rosado Airport",
+    "region": "Rio Grande do Norte"
+  },
+  "nat": {
+    "city": "Natal / São Gonçalo do Amarante",
+    "iata": "NAT",
+    "icao": "SBSG",
+    "name": "Gov. Aluízio Alves International Airport",
+    "region": "Rio Grande do Norte"
+  },
+  "npr": {
+    "city": "Novo Progresso",
+    "iata": "NPR",
+    "icao": "SJNP",
+    "name": "Novo Progresso Airport",
+    "region": "Pará"
+  },
+  "nvt": {
+    "city": "Navegantes",
+    "iata": "NVT",
+    "icao": "SBNF",
+    "name": "Min. Victor Konder International Airport",
+    "region": "Santa Catarina"
+  },
+  "oal": {
+    "city": "Cacoal",
+    "iata": "OAL",
+    "icao": "SSKW",
+    "name": "Capital do Café Airport",
+    "region": "Rondônia"
+  },
+  "oia": {
+    "city": "Ourilândia do Norte",
+    "iata": "OIA",
+    "icao": "SDOW",
+    "name": "Ourilândia do Norte Airport",
+    "region": "Pará"
+  },
+  "olc": {
+    "city": "São Paulo de Olivença",
+    "iata": "OLC",
+    "icao": "SDCG",
+    "name": "Sen. Eunice Michiles Airport",
+    "region": "Amazonas"
+  },
+  "ops": {
+    "city": "Sinop",
+    "iata": "OPS",
+    "icao": "SWSI",
+    "name": "Presidente João Figueiredo Airport",
+    "region": "Mato Grosso"
+  },
+  "orx": {
+    "city": "Oriximiná",
+    "iata": "ORX",
+    "icao": "SNOX",
+    "name": "Oriximiná Airport",
+    "region": "Pará"
+  },
+  "ous": {
+    "city": "Ourinhos",
+    "iata": "OUS",
+    "icao": "SDOU",
+    "name": "Jornalista Benedito Pimentel Airport",
+    "region": "São Paulo"
+  },
+  "pav": {
+    "city": "Paulo Afonso",
+    "iata": "PAV",
+    "icao": "SBUF",
+    "name": "Paulo Afonso Airport",
+    "region": "Bahia"
+  },
+  "pcs": {
+    "city": "Picos",
+    "iata": "PCS",
+    "icao": "SNPC",
+    "name": "Sen. Helvídio Nunes Airport",
+    "region": "Piauí"
+  },
+  "pet": {
+    "city": "Pelotas",
+    "iata": "PET",
+    "icao": "SBPK",
+    "name": "João Simões Lopes Neto International Airport",
+    "region": "Rio Grande do Sul"
+  },
+  "pfb": {
+    "city": "Passo Fundo",
+    "iata": "PFB",
+    "icao": "SBPF",
+    "name": "Lauro Kurtz Airport",
+    "region": "Rio Grande do Sul"
+  },
+  "pgz": {
+    "city": "Ponta Grossa",
+    "iata": "PGZ",
+    "icao": "SSZW",
+    "name": "Comte. Antonio Amilton Beraldo Airport",
+    "region": "Paraná"
+  },
+  "phb": {
+    "city": "Parnaíba",
+    "iata": "PHB",
+    "icao": "SBPB",
+    "name": "Pref. Dr. João Silva Filho International Airport",
+    "region": "Piauí"
+  },
+  "pin": {
+    "city": "Parintins",
+    "iata": "PIN",
+    "icao": "SWPI",
+    "name": "Júlio Belém Airport",
+    "region": "Amazonas"
+  },
+  "plu": {
+    "city": "Belo Horizonte",
+    "iata": "PLU",
+    "icao": "SBBH",
+    "name": "Pampulha-Carlos Drummond de Andrade Airport",
+    "region": "Minas Gerais"
+  },
+  "pmg": {
+    "city": "Ponta Porã",
+    "iata": "PMG",
+    "icao": "SBPP",
+    "name": "Ponta Porã International Airport",
+    "region": "Mato Grosso do Sul"
+  },
+  "pmw": {
+    "city": "Palmas",
+    "iata": "PMW",
+    "icao": "SBPJ",
+    "name": "Brig. Lysias Rodrigues Airport",
+    "region": "Tocantins"
+  },
+  "pnb": {
+    "city": "Porto Nacional",
+    "iata": "PNB",
+    "icao": "SBPN",
+    "name": "Porto Nacional Airport",
+    "region": "Tocantins"
+  },
+  "png": {
+    "city": "Paranaguá",
+    "iata": "PNG",
+    "icao": "SSPG",
+    "name": "Santos Dumont Airport",
+    "region": "Paraná"
+  },
+  "pnz": {
+    "city": "Petrolina",
+    "iata": "PNZ",
+    "icao": "SBPL",
+    "name": "Sen. Nilo Coelho Airport",
+    "region": "Pernambuco"
+  },
+  "poa": {
+    "city": "Porto Alegre",
+    "iata": "POA",
+    "icao": "SBPA",
+    "name": "Salgado Filho International Airport",
+    "region": "Rio Grande do Sul"
+  },
+  "poj": {
+    "city": "Patos de Minas",
+    "iata": "POJ",
+    "icao": "SNPD",
+    "name": "Pedro Pereira dos Santos Airport",
+    "region": "Minas Gerais"
+  },
+  "poo": {
+    "city": "Poços de Caldas",
+    "iata": "POO",
+    "icao": "SBPC",
+    "name": "Emb. Walther Moreira Salles Airport",
+    "region": "Minas Gerais"
+  },
+  "ppb": {
+    "city": "Presidente Prudente",
+    "iata": "PPB",
+    "icao": "SBDN",
+    "name": "Presidente Prudente Airport",
+    "region": "São Paulo"
+  },
+  "pto": {
+    "city": "Pato Branco",
+    "iata": "PTO",
+    "icao": "SSPB",
+    "name": "Juvenal Loureiro Cardoso Airport",
+    "region": "Paraná"
+  },
+  "pvh": {
+    "city": "Porto Velho",
+    "iata": "PVH",
+    "icao": "SBPV",
+    "name": "Gov. Jorge Teixeira de Oliveira International Airport",
+    "region": "Rondônia"
+  },
+  "pvi": {
+    "city": "Paranavaí",
+    "iata": "PVI",
+    "icao": "SSPI",
+    "name": "Edu Chaves Airport",
+    "region": "Paraná"
+  },
+  "qsc": {
+    "city": "São Carlos",
+    "iata": "QSC",
+    "icao": "SDSC",
+    "name": "Mário Pereira Lopes Airport",
+    "region": "São Paulo"
+  },
+  "qvp": {
+    "city": "Avaré / Arandu",
+    "iata": "QVP",
+    "icao": "SDRR",
+    "name": "Comte. Luiz Gonzaga Luth Airport",
+    "region": "São Paulo"
+  },
+  "rao": {
+    "city": "Ribeirão Preto",
+    "iata": "RAO",
+    "icao": "SBRP",
+    "name": "Dr. Leite Lopes Airport",
+    "region": "São Paulo"
+  },
+  "rbb": {
+    "city": "Borba",
+    "iata": "RBB",
+    "icao": "SWBR",
+    "name": "Borba Airport",
+    "region": "Amazonas"
+  },
+  "rbr": {
+    "city": "Rio Branco",
+    "iata": "RBR",
+    "icao": "SBRB",
+    "name": "Plácido de Castro International Airport",
+    "region": "Acre"
+  },
+  "rdc": {
+    "city": "Redenção",
+    "iata": "RDC",
+    "icao": "SNDC",
+    "name": "Redenção Airport",
+    "region": "Pará"
+  },
+  "rec": {
+    "city": "Recife",
+    "iata": "REC",
+    "icao": "SBRF",
+    "name": "Guararapes-Gilberto Freyre International Airport",
+    "region": "Pernambuco"
+  },
+  "rez": {
+    "city": "Resende",
+    "iata": "REZ",
+    "icao": "SDRS",
+    "name": "Resende Airport",
+    "region": "Rio de Janeiro"
+  },
+  "ria": {
+    "city": "Santa Maria",
+    "iata": "RIA",
+    "icao": "SBSM",
+    "name": "Santa Maria Airport",
+    "region": "Rio Grande do Sul"
+  },
+  "rig": {
+    "city": "Rio Grande",
+    "iata": "RIG",
+    "icao": "SJRG",
+    "name": "Rio Grande Regional Airport",
+    "region": "Rio Grande do Sul"
+  },
+  "roo": {
+    "city": "Rondonópolis",
+    "iata": "ROO",
+    "icao": "SWRD",
+    "name": "Maestro Marinho Franco Airport",
+    "region": "Mato Grosso"
+  },
+  "rvd": {
+    "city": "Rio Verde",
+    "iata": "RVD",
+    "icao": "SWLC",
+    "name": "Gal. Leite de Castro Airport",
+    "region": "Goiás"
+  },
+  "sdu": {
+    "city": "Rio de Janeiro",
+    "iata": "SDU",
+    "icao": "SBRJ",
+    "name": "Santos Dumont Airport",
+    "region": "Rio de Janeiro"
+  },
+  "sjk": {
+    "city": "São José dos Campos",
+    "iata": "SJK",
+    "icao": "SBSJ",
+    "name": "Prof. Urbano Ernesto Stumpf Airport",
+    "region": "São Paulo"
+  },
+  "sjl": {
+    "city": "São Gabriel da Cachoeira",
+    "iata": "SJL",
+    "icao": "SBUA",
+    "name": "São Gabriel da Cachoeira Airport",
+    "region": "Amazonas"
+  },
+  "sjp": {
+    "city": "São José do Rio Preto",
+    "iata": "SJP",
+    "icao": "SBSR",
+    "name": "Prof. Eribelto Manoel Reino Airport",
+    "region": "São Paulo"
+  },
+  "slz": {
+    "city": "São Luís",
+    "iata": "SLZ",
+    "icao": "SBSL",
+    "name": "Mal. Cunha Machado International Airport (Tirirical)",
+    "region": "Maranhão"
+  },
+  "smt": {
+    "city": "Sorriso",
+    "iata": "SMT",
+    "icao": "SBSO",
+    "name": "Adolino Bedin Regional Airport",
+    "region": "Mato Grosso"
+  },
+  "sod": {
+    "city": "Sorocaba",
+    "iata": "SOD",
+    "icao": "SDCO",
+    "name": "Bertram Luiz Leupolz Airport",
+    "region": "São Paulo"
+  },
+  "sqx": {
+    "city": "São Miguel do Oeste",
+    "iata": "SQX",
+    "icao": "SSOE",
+    "name": "Hélio Wasum Airport",
+    "region": "Santa Catarina"
+  },
+  "sra": {
+    "city": "Santa Rosa",
+    "iata": "SRA",
+    "icao": "SSZR",
+    "name": "Luís Alberto Lehr Airport",
+    "region": "Rio Grande do Sul"
+  },
+  "ssa": {
+    "city": "Salvador da Bahia",
+    "iata": "SSA",
+    "icao": "SBSV",
+    "name": "Dep. Luís Eduardo Magalhães International Airport (2 de Julho)",
+    "region": "Bahia"
+  },
+  "sso": {
+    "city": "São Lourenço",
+    "iata": "SSO",
+    "icao": "SNLO",
+    "name": "São Lourenço Airport",
+    "region": "Minas Gerais"
+  },
+  "stm": {
+    "city": "Santarém",
+    "iata": "STM",
+    "icao": "SBSN",
+    "name": "Maestro Wilson Fonseca Airport",
+    "region": "Pará"
+  },
+  "sxo": {
+    "city": "São Félix do Araguaia",
+    "iata": "SXO",
+    "icao": "SWFX",
+    "name": "São Félix do Araguaia Airport",
+    "region": "Mato Grosso"
+  },
+  "sxx": {
+    "city": "São Félix do Xingu",
+    "iata": "SXX",
+    "icao": "SNFX",
+    "name": "São Félix do Xingu Airport",
+    "region": "Pará"
+  },
+  "tbt": {
+    "city": "Tabatinga",
+    "iata": "TBT",
+    "icao": "SBTT",
+    "name": "Tabatinga International Airport",
+    "region": "Amazonas"
+  },
+  "tec": {
+    "city": "Telêmaco Borba",
+    "iata": "TEC",
+    "icao": "SBTL",
+    "name": "Telêmaco Borba Airport",
+    "region": "Paraná"
+  },
+  "tff": {
+    "city": "Tefé",
+    "iata": "TFF",
+    "icao": "SBTF",
+    "name": "Tefé Airport",
+    "region": "Amazonas"
+  },
+  "the": {
+    "city": "Teresina",
+    "iata": "THE",
+    "icao": "SBTE",
+    "name": "Sen. Petrônio Portella Airport",
+    "region": "Piauí"
+  },
+  "tjl": {
+    "city": "Três Lagoas",
+    "iata": "TJL",
+    "icao": "SBTG",
+    "name": "Plínio Alarcom Airport",
+    "region": "Mato Grosso do Sul"
+  },
+  "tmt": {
+    "city": "Porto de Trombetas (Oriximiná)",
+    "iata": "TMT",
+    "icao": "SBTB",
+    "name": "Porto de Trombetas Airport",
+    "region": "Pará"
+  },
+  "tow": {
+    "city": "Toledo",
+    "iata": "TOW",
+    "icao": "SBTD",
+    "name": "Luiz dal Canalle Filho Airport",
+    "region": "Paraná"
+  },
+  "trq": {
+    "city": "Tarauacá",
+    "iata": "TRQ",
+    "icao": "SBTK",
+    "name": "José Galera dos Santos Airport",
+    "region": "Acre"
+  },
+  "tur": {
+    "city": "Tucuruí",
+    "iata": "TUR",
+    "icao": "SBTU",
+    "name": "Tucuruí Airport",
+    "region": "Pará"
+  },
+  "txf": {
+    "city": "Teixeira de Freitas",
+    "iata": "TXF",
+    "icao": "SNTF",
+    "name": "9 de maio Airport",
+    "region": "Bahia"
+  },
+  "uba": {
+    "city": "Uberaba",
+    "iata": "UBA",
+    "icao": "SBUR",
+    "name": "Mário de Almeida Franco Airport",
+    "region": "Minas Gerais"
+  },
+  "udi": {
+    "city": "Uberlândia",
+    "iata": "UDI",
+    "icao": "SBUL",
+    "name": "Ten. Cel. Av. César Bombonato Airport",
+    "region": "Minas Gerais"
+  },
+  "umu": {
+    "city": "Umuarama",
+    "iata": "UMU",
+    "icao": "SSUM",
+    "name": "Orlando de Carvalho Airport",
+    "region": "Paraná"
+  },
+  "una": {
+    "city": "Una",
+    "iata": "UNA",
+    "icao": "SBTC",
+    "name": "Una-Comandatuba Airport",
+    "region": "Bahia"
+  },
+  "urg": {
+    "city": "Uruguaiana",
+    "iata": "URG",
+    "icao": "SBUG",
+    "name": "Ruben Berta International Airport",
+    "region": "Rio Grande do Sul"
+  },
+  "vag": {
+    "city": "Varginha",
+    "iata": "VAG",
+    "icao": "SBVG",
+    "name": "Maj. Brig. Trompowsky Airport",
+    "region": "Minas Gerais"
+  },
+  "val": {
+    "city": "Valença",
+    "iata": "VAL",
+    "icao": "SNVB",
+    "name": "Valença Airport",
+    "region": "Bahia"
+  },
+  "vcp": {
+    "city": "Campinas",
+    "iata": "VCP",
+    "icao": "SBKP",
+    "name": "Viracopos International Airport",
+    "region": "São Paulo"
+  },
+  "vdc": {
+    "city": "Vitória da Conquista",
+    "iata": "VDC",
+    "icao": "SBQV",
+    "name": "Pedro Otacílio Figueiredo Airport",
+    "region": "Bahia"
+  },
+  "via": {
+    "city": "Videira",
+    "iata": "VIA",
+    "icao": "SSVI",
+    "name": "Ângelo Ponzoni Airport",
+    "region": "Santa Catarina"
+  },
+  "vix": {
+    "city": "Vitória",
+    "iata": "VIX",
+    "icao": "SBVT",
+    "name": "Eurico de Aguiar Salles Airport (Goiabeiras)",
+    "region": "Espírito Santo"
+  },
+  "xap": {
+    "city": "Chapecó",
+    "iata": "XAP",
+    "icao": "SBCH",
+    "name": "Serafin Enoss Bertaso Airport",
+    "region": "Santa Catarina"
+  }
+}
