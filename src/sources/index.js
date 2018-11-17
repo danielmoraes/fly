@@ -22,7 +22,6 @@ export const findLowestFares = async (origin, destination, date) => {
         const lowestFare = Parser.getLowestFare(response)
         return { sourceName, lowestFare }
       } catch (err) {
-        console.error(err)
         return { sourceName, error: err.message }
       }
     }))
