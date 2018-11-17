@@ -4,6 +4,11 @@ class Parser extends SourceParser {
   // @override
   static getLowestFare (data) {
     const flights = data.data.flights
+
+    if (flights.length === 0) {
+      throw Error('No flights found for this trip')
+    }
+
     const bestPrice =
       flights.reduce(
         (fa, fv) => Math.min(
@@ -12,6 +17,7 @@ class Parser extends SourceParser {
         ),
         Infinity
       )
+
     return bestPrice
   }
 }

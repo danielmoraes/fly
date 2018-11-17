@@ -17,6 +17,10 @@ class Parser extends SourceParser {
       match = re.exec(data)
     }
 
+    if (prices.length === 0) {
+      throw Error('No flights found for this trip')
+    }
+
     return min(prices)
   }
 }

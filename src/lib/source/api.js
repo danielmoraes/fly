@@ -1,3 +1,4 @@
+import { airports } from '@data'
 import { get, pick, reduce, toString } from 'lodash'
 
 const SourceApiCreator = (mappings) => class SourceApi {
@@ -15,6 +16,8 @@ const SourceApiCreator = (mappings) => class SourceApi {
     if (group) {
       return { name: group, isGroup: true }
     }
+
+    throw Error(`${airports[code].name} is not supported by this airline`)
   }
 
   static mapFareType (fareType) {
