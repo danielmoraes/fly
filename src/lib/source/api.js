@@ -1,4 +1,4 @@
-import airports from '@data/airports'
+import { airports } from '@data'
 import { get, pick, reduce, toString } from 'lodash'
 
 const SourceApiCreator = (mappings) => class SourceApi {
