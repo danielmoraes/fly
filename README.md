@@ -19,24 +19,27 @@ yarn start
 Make a query:
 
 ```bash
-curl "http://localhost:3000/search?origin=sao&destination=aju&date=2018-12-01"
+curl "http://localhost:3000/search?origin=sao&destination=aju&date=2019-01-01"
 
-[
-    {
-        "sourceName": "Avianca",
-        "lowestFare": 549
-    },
-    {
-        "sourceName": "Azul",
-        "lowestFare": 499.74
-    },
-    {
-        "sourceName": "Gol",
-        "lowestFare": 547.94
-    },
-    {
-        "sourceName": "Latam",
-        "lowestFare": 548.84
-    }
-]
+{
+    "lowestFare": 407.84,
+    "sources": [
+        {
+            "sourceName": "Avianca",
+            "lowestFare": 699
+        },
+        {
+            "sourceName": "Azul",
+            "lowestFare": 697.1
+        },
+        {
+            "sourceName": "Gol",
+            "lowestFare": 521.94
+        },
+        {
+            "sourceName": "Latam",
+            "lowestFare": 407.84
+        }
+    ]
+}
 ```
