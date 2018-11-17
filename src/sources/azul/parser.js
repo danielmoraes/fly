@@ -1,8 +1,10 @@
 import cheerio from 'cheerio'
 import { map, min } from 'lodash'
+import { SourceParser } from '@lib/source'
 
-const parser = {
-  getLowestFare: data => {
+class Parser extends SourceParser {
+  // @override
+  static getLowestFare (data) {
     const $ = cheerio.load(data)
     const prices = map($('span.fare-price'), element => {
       let price = element.children[0].data
@@ -14,4 +16,4 @@ const parser = {
   }
 }
 
-export default parser
+export default Parser

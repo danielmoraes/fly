@@ -1,7 +1,9 @@
 import { min } from 'lodash'
+import { SourceParser } from '@lib/source'
 
-const parser = {
-  getLowestFare: data => {
+class Parser extends SourceParser {
+  // @override
+  static getLowestFare (data) {
     const re =
       /"amountWithoutTax":(\d+.\d+),"totalAmount":(\d+.\d+),"milesCost":(\d+)/g
 
@@ -19,4 +21,4 @@ const parser = {
   }
 }
 
-export default parser
+export default Parser

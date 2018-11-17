@@ -7,8 +7,19 @@
   "author": "Daniel Moraes",
   "license": "MIT",
   "private": true,
+  "engines": {
+    "node": "8"
+  },
+  "_moduleAliases": {
+    "@root": "./src",
+    "@data": "./src/data",
+    "@handlers": "./src/handlers",
+    "@lib": "./src/lib",
+    "@sources": "./src/sources"
+  },
   "scripts": {
-    "start": "node -r esm src"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "dependencies": {
     "axios": "^0.18.0",
@@ -16,7 +27,11 @@
     "esm": "^3.0.84",
     "express": "^4.16.3",
     "lodash": "^4.17.11",
+    "module-alias": "^2.1.0",
     "moment": "^2.22.2",
     "yup": "^0.26.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
   }
 }

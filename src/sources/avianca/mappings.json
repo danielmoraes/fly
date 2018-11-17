@@ -1,0 +1,43 @@
+{
+  "airports": {
+    "aju": "AJU",
+    "bel": "BEL",
+    "bsb": "BSB",
+    "cgb": "CGB",
+    "cgr": "CGR",
+    "cnf": "CNF",
+    "cwb": "CWB",
+    "fln": "FLN",
+    "for": "FOR",
+    "gig": "GIG",
+    "gyn": "GYN",
+    "igu": "IGU",
+    "ios": "IOS",
+    "jdo": "JDO",
+    "jpa": "JPA",
+    "mcz": "MCZ",
+    "nat": "NAT",
+    "nvt": "NVT",
+    "pnz": "PNZ",
+    "poa": "POA",
+    "rec": "REC",
+    "sdu": "SDU",
+    "ssa": "SSA",
+    "vix": "VIX",
+    "xap": "XAP"
+  },
+  "groups": {
+    "bhz": "BHZ",
+    "rio": "RIO",
+    "sao": "SAO"
+  },
+  "fareTypes": {
+    "cash": "",
+    "points": "",
+    "hibrid": ""
+  },
+  "tripTypes": {
+    "oneWay": "",
+    "roundTrip": ""
+  }
+}

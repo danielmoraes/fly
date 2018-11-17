@@ -1,0 +1,20 @@
+{
+  "airports": {
+    "aju": "AJU",
+    "fln": "FLN"
+  },
+  "groups": {
+    "bhz": "BHZ",
+    "rio": "RIO",
+    "sao": "SAO"
+  },
+  "fareTypes": {
+    "cash": "",
+    "points": "",
+    "hibrid": ""
+  },
+  "tripTypes": {
+    "oneWay": "",
+    "roundTrip": ""
+  }
+}
