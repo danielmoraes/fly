@@ -14,6 +14,10 @@ class Parser extends SourceParser {
     bestPrice = bestPrice.replace(',', '.')
     bestPrice = Number(bestPrice)
 
+    if (!bestPrice) {
+      throw Error('No flights found for this trip')
+    }
+
     return bestPrice
   }
 }
