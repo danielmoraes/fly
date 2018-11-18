@@ -1,6 +1,5 @@
 <h1 align="center">
-  <br>
-  <img src="https://dmoraes.org/fly.png" alt="fly" width="200"></a>
+  <img src="https://dmoraes.org/fly.png" alt="fly" width="150"></a>
   <br>
   Fly
   <br>
