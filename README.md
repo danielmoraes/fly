@@ -25,7 +25,7 @@ To install Fly for use in Node.js with `require('@danielmoraes/fly')`, run:
 npm install @danielmoraes/fly
 ```
 
-To install a `fly`
+To install a `fly-cli`
 [command line app](https://github.com/danielmoraes/fly-cli), run:
 
 ```bash
