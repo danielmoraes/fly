@@ -1,13 +1,16 @@
 {
   "name": "@danielmoraes/fly",
   "version": "0.0.1",
-  "description": "Find cheap flights with ease",
+  "description": "Airfare search engine for Node.js.",
   "main": "index.js",
   "repository": "https://github.com/danielmoraes/fly",
   "author": "Daniel Moraes",
   "license": "MIT",
   "engines": {
     "node": ">=8"
+  },
+  "bugs": {
+    "url": "https://github.com/danielmoraes/fly/issues"
   },
   "_moduleAliases": {
     "@root": "./src",

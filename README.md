@@ -39,7 +39,7 @@ npm install @danielmoraes/fly-cli -g
 ```javascript
 import { findLowestFares } from '@danielmoraes/fly'
 
-findLowestFares('sao', 'aju', '2019-01-01')
+findLowestFares('sao', 'rio', '2019-01-01')
   .then(response => { console.log(response) }
 ```
 
@@ -57,7 +57,13 @@ $ fly-cli --help
 To make a query:
 
 ```bash
-$ fly-cli --origin sao --destination aju --date 2019-01-01
+$ fly-cli search sao rio 2019-01-01
+{ sources:
+   [ { sourceName: 'Avianca', lowestFare: 169 },
+     { sourceName: 'Azul', lowestFare: 187.1 },
+     { sourceName: 'Gol', lowestFare: 175.17 },
+     { sourceName: 'Latam', lowestFare: 195.84 } ],
+  lowestFare: 169 }
 ```
 
 ### License
