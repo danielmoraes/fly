@@ -12,18 +12,11 @@
   "bugs": {
     "url": "https://github.com/danielmoraes/fly/issues"
   },
-  "_moduleAliases": {
-    "@root": "./src",
-    "@data": "./src/data",
-    "@lib": "./src/lib",
-    "@sources": "./src/sources"
-  },
   "dependencies": {
     "axios": "^0.18.0",
     "cheerio": "^1.0.0-rc.2",
     "esm": "^3.0.84",
     "lodash": "^4.17.11",
-    "module-alias": "^2.1.0",
     "moment": "^2.22.2",
     "yup": "^0.26.6"
   }

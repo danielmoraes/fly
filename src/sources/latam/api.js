@@ -1,7 +1,8 @@
 import axios from 'axios'
 import moment from 'moment'
 import { omitBy, set } from 'lodash'
-import { SourceApi } from '@lib/source'
+
+import { SourceApi } from '../../lib/source'
 
 import mappings from './mappings'
 

@@ -1,6 +1,7 @@
 import moment from 'moment'
-import { airports, groups } from '@data'
 import { concat, keys } from 'lodash'
+
+import { airports, groups } from '../data'
 
 const yup = require('yup')
 

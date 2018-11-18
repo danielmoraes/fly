@@ -1,4 +1,4 @@
-import { findLowestFares } from '@sources'
+import { findLowestFares } from './sources'
 
 export {
   findLowestFares

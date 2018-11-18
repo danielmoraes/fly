@@ -1,7 +1,8 @@
 import axios from 'axios'
 import moment from 'moment'
 import querystring from 'querystring'
-import { SourceApi } from '@lib/source'
+
+import { SourceApi } from '../../lib/source'
 
 import mappings from './mappings'
 

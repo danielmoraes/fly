@@ -1,4 +1,4 @@
-import { SourceParser } from '@lib/source'
+import { SourceParser } from '../../lib/source'
 
 class Parser extends SourceParser {
   // @override

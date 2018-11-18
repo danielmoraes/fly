@@ -1,6 +1,7 @@
 import { filter, get } from 'lodash'
 import { map } from 'lodash'
-import { parseData } from '@lib/util'
+
+import { parseData } from '../lib/util'
 
 import Azul from './azul'
 import Avianca from './avianca'
