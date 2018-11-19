@@ -1,7 +1,16 @@
 {
   "airports": {
     "aju": "AJU",
-    "fln": "FLN"
+    "bel": "BEL",
+    "cgh": "CGH",
+    "cwb": "CWB",
+    "fln": "FLN",
+    "for": "FOR",
+    "gru": "GRU",
+    "rec": "REC",
+    "ssa": "SSA",
+    "poa": "POA",
+    "vcp": "VCP"
   },
   "groups": {
     "bhz": "BHZ",
